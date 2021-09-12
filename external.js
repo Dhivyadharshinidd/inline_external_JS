@@ -1,0 +1,1 @@
+document.getElementById("extern").innerHTML = "Hi!!! from External JS";
